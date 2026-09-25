@@ -1,16 +1,77 @@
-# React + Vite
+# PRAXON AI - Chatbot Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive chatbot frontend application developed using
+HTML, CSS, JavaScript, Bootstrap, and React.js.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Hi, I'm Sai Hemanth.
 
-## React Compiler
+I am a Java Full Stack Developer with a strong interest in building
+modern web applications and interactive user interfaces.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Frontend Skills
 
-## Expanding the ESLint configuration
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React.js
+- React Router
+- Responsive Web Design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Backend Skills
+
+- Java
+- Spring Boot
+- REST APIs
+- Spring Security
+- MySQL
+
+## Project Overview
+
+PRAXON AI is a chatbot frontend application designed with a modern
+and responsive user interface.
+
+The application includes:
+
+- Home page
+- Chat interface
+- Explore page
+- Contact page
+- Sign-in page
+- Responsive navigation
+- Modern UI components
+- Chat interface
+- API integration structure
+
+## Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Page structure |
+| CSS3 | Styling and responsive design |
+| JavaScript | Application logic |
+| Bootstrap | UI and responsive components |
+| React.js | Frontend development |
+| React Router | Page navigation |
+| Vite | Development and build tool |
+
+## Frontend Structure
+
+```text
+src/
+├── App.jsx
+├── main.jsx
+├── config/
+├── layouts/
+├── routes/
+│   ├── HomePage/
+│   ├── ChatPage/
+│   ├── ExplorePage/
+│   ├── CONTACT/
+│   └── SignInPage/
+└── services/
+
+public/
+└── Project assets
