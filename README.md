@@ -1,10 +1,8 @@
-╔══════════════════════════════════════╗
-║       PRAXON AI CHATBOT             ║
-║                                      ║
-║   React.js • JavaScript • CSS        ║
-║   Bootstrap • HTML • Vite            ║
-╚══════════════════════════════════════╝
 
+       PRAXON AI CHATBOT             
+                                      
+   React.js • JavaScript • CSS        
+   Bootstrap • HTML • Vite            
              ↓
 
         🚀 Features
