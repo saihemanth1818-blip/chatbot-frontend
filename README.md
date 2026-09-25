@@ -1,12 +1,9 @@
 
        PRAXON AI CHATBOT             
-                                      
+          SKILLS USED                            
    React.js • JavaScript • CSS        
    Bootstrap • HTML • Vite            
-             ↓
-
-        🚀 Features
-
+             
      🏠 Home Page
      💬 Chat Page
      🔎 Explore Page
